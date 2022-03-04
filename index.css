@@ -1,0 +1,34 @@
+html{
+    padding:0;
+    margin:0;
+    height:0;
+    scroll-behavior: smooth;
+    width:100%;
+}
+#header-bg{
+    background-image: url("images/bgnight.jpg") !important;
+    background-position: center !important;
+    background-size:cover !important;
+    width:100% !important;
+    padding:5px !important;
+    height:50% !important;  
+}
+#el{
+    width:100% !important;
+    height:30% !important;
+    margin-top:30px !important;
+}
+#Blt-bg{
+    background-image: url("images/blt2.jfif") !important;
+    width:100% !important;
+    padding:50px !important;
+    background-size: cover !important;
+    background-position: center  !important;
+    margin-bottom:10px !important;
+}
+#link{
+    color:blue !important;
+}
+#link:hover{
+    color:red !important;
+}
